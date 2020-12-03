@@ -1,0 +1,32 @@
+
+.idea/
+__pycache__/
+*.py[cod]
+*.pkl
+experiments/180427Mtg/histogram_RMSE_and_MI/*.pdf
+*-checkpoint.ipynb
+None0000000.png
+tests/.cache/
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.gif
+*.bbl
+*.blg
+*.env
+.DS_Store
+*/.DS_Store
+
+# pyenv
+.python-version
+
+# poetry
+.venv
+
+# vscode
+.vscode
+
+venv
